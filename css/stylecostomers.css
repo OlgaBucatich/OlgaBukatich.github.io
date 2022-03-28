@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+
+
+body {background:   #F5F5F5;;}
+.conteiner {background:   #F5F5F5;;
+    font-family: 'Raleway', sans-serif;
+   
+width:1170px;
+margin: 0 auto;
+box-sizing: border-box;
+padding: 0px;
+}
+
+.topblock {
+    margin: 0 auto;
+    
+}
+.separator {
+    width: 170px;
+    height: 0;
+    border: 1px solid #EC7979;
+}
+.text1{font-size: 36px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+align-items: center;
+/* padding: 50px 0; */
+text-transform: uppercase;
+text-align: center;
+line-height: 42px;
+height: 150px;
+margin: 0;
+}
+
+.text2 {padding: 4px 0;
+    margin: 40px 0 83px;
+    font-size: 18px;
+    font-weight: 400;
+height: 21px;}
+
+.frase {display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.frase_text{width: 370px;
+    /* height: 150px; */
+line-height: 18px;
+background: #E2E2E2;
+padding: 38px 0 37px;
+/* line-height: 18px; */
+font-weight: 400;
+color: #86878B;
+margin: 0;
+border-radius: 10px;
+text-align: center;
+}
+.frase_footer {
+    left: 70px;
+	width: 0;
+	height: 0;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-top: 20px solid #E2E2E2;
+    margin-left: 70px;
+    /* border: 0; */
+}
+.foto_menu {display: flex;
+margin-top: 46px;}
+.foto {display: flex;
+justify-content: left;
+align-items: center;
+flex-direction: row;
+width: 370px;
+padding-right: 45px;}
+
+.foto_img {float: left;}
+.foto_h4 {position: relative;
+    left: 30px;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+font-weight: 700;}
+
+.job {display: flex;
+justify-content: space-around;
+/* width: 270px; */
+height: 30px;}
+/* margin: 0;
+padding: 0;} */
+
+.job_h5 {font-size: 18px;
+    font-weight: 400;
+margin-bottom: 64px;
+margin-top: 0;}
+

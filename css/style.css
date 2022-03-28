@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+body {
+    background: #F5F5F5;
+    ;
+}
+
+.conteiner {
+    background: #F5F5F5;
+    ;
+    font-family: 'Raleway', sans-serif;
+    width: 1170px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.topblock {
+    margin: 0 auto;
+}
+
+.separator {
+    width: 170px;
+    height: 0;
+    border: 1px solid #EC7979;
+}
+
+.text1 {
+    font-size: 30px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 50px 0; */
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 42px;
+    height: 150px;
+    margin: 0;
+}
+
+.text2 {
+    padding: 4px 0;
+    margin: 40px 0 59px;
+    font-size: 18px;
+    font-weight: 400;
+    height: 21px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+    background: #F5F5F5;
+}
+
+.menu_1 {
+    width: 370px;
+    margin-right: 30px;
+}
+
+.menu_2 {
+    width: 370px;
+    margin-right: 30px;
+    margin-top: -50px;
+}
+
+.menu_3 {
+    width: 370px;
+}
+
+.menu_1_logo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    /* width: 370px; */
+    line-height: 60px;
+    text-transform: capitalize;
+}
+
+.menu_1_pay {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    /* width: 370px; */
+    line-height: 100px;
+    /* text-transform: capitalize; */
+}
+
+.menu_1_text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    /* width: 370px; */
+    line-height: 50px;
+}
+
+.menu_1_text1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #86878B;
+    text-align: center;
+    background: #FFFFFF;
+    border: 2px solid #F5F5F5;
+    /* width: 370px; */
+    line-height: 50px;
+}

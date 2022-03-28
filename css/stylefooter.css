@@ -1,0 +1,218 @@
+                                                                                        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+                                                                                        .footer_1 {
+                                                                                            width: 100%;
+                                                                                            max-width: 1170px;
+                                                                                            height: 442px;
+                                                                                            background: url('/Sito1/все/assets/bg\ footer.png'), url('/Sito1/все/assets/image\ footer.png');
+                                                                                            margin-top: 64px;
+                                                                                            font-family: 'Raleway', sans-serif;
+                                                                                            font-size: 36px;
+                                                                                            font-weight: 400;
+                                                                                            line-height: 42px;
+                                                                                            color: #ffffff;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_1_h2 {
+                                                                                            font-family: 'Raleway', sans-serif;
+                                                                                            font-size: 36px;
+                                                                                            font-weight: 400;
+                                                                                            line-height: 42px;
+                                                                                            color: #ffffff;
+                                                                                            padding-top: 107px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_1_separator {
+                                                                                            width: 170px;
+                                                                                            height: 0;
+                                                                                            border: 1px solid white;
+                                                                                            text-align: center;
+                                                                                            margin-top: 57px;
+                                                                                            margin-bottom: 0;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_1_h5 {
+                                                                                            font-family: 'Raleway', sans-serif;
+                                                                                            font-size: 18px;
+                                                                                            font-weight: 400;
+                                                                                            line-height: 21px;
+                                                                                            color: #ffffff;
+                                                                                            padding-top: 40px;
+                                                                                            text-align: center;
+                                                                                            margin-top: 0;
+                                                                                            margin-bottom: 70px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_1_button {
+                                                                                            color: #FFFFFF;
+                                                                                            font-family: 'Open Sans', sans-serif;
+                                                                                            font-weight: 600;
+                                                                                            font-size: 18px;
+                                                                                            width: 370px;
+                                                                                            height: 58px;
+                                                                                            background: rgba(0, 0, 0, 0);
+                                                                                            border: 2px solid white;
+                                                                                            padding: 0;
+                                                                                            margin: 0 400px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_1_button:hover {
+                                                                                            border: 2px solid rgba(236, 121, 121, 1);
+                                                                                            color: rgba(236, 121, 121, 1);
+                                                                                        }
+                                                                                        
+                                                                                        .footer_1_button:active {
+                                                                                            border: 2px solid rgba(171, 73, 73, 1);
+                                                                                            color: white;
+                                                                                            background: rgba(171, 73, 73, 1);
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2 {
+                                                                                            height: 722px;
+                                                                                            background: #E5E5E5;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_h2 {
+                                                                                            font-family: 'Raleway', sans-serif;
+                                                                                            font-size: 36px;
+                                                                                            font-weight: 400;
+                                                                                            line-height: 42px;
+                                                                                            color: #000000;
+                                                                                            text-transform: uppercase;
+                                                                                            padding-top: 107px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_separator {
+                                                                                            width: 170px;
+                                                                                            height: 0;
+                                                                                            border: 1px solid #EC7979;
+                                                                                            text-align: center;
+                                                                                            margin-top: 57px;
+                                                                                            margin-bottom: 0;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_h5 {
+                                                                                            font-family: 'Raleway', sans-serif;
+                                                                                            font-size: 18px;
+                                                                                            font-weight: 400;
+                                                                                            line-height: 21px;
+                                                                                            color: #86878B;
+                                                                                            padding-top: 40px;
+                                                                                            text-align: center;
+                                                                                            margin-top: 0;
+                                                                                            margin-bottom: 70px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_div {
+                                                                                            display: flex;
+                                                                                            flex-direction: row;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_form {
+                                                                                            color: rgba(189, 189, 189, 1);
+                                                                                            font-family: 'Open Sans', sans-serif;
+                                                                                            font-weight: 400;
+                                                                                            font-size: 14px;
+                                                                                            line-height: 19px;
+                                                                                            width: 500px;
+                                                                                            border: none;
+                                                                                            background: #E5E5E5;
+                                                                                            margin-left: 50px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_form_separator {
+                                                                                            width: 500px;
+                                                                                            height: 0;
+                                                                                            border: 1px solid #BDBDBD;
+                                                                                            margin: 16px 0 33px 50px;
+                                                                                        }
+                                                                                        
+                                                                                        textarea {
+                                                                                            opacity: 1;
+                                                                                            color: rgba(189, 189, 189, 1);
+                                                                                            font-family: 'Open Sans';
+                                                                                            font-weight: 400;
+                                                                                            font-size: 14px;
+                                                                                            line-height: 19px;
+                                                                                            width: 460px;
+                                                                                            height: 200px;
+                                                                                            border: none;
+                                                                                            margin-left: 75px;
+                                                                                            background: #E5E5E5;
+                                                                                            margin-top: 10px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_2_button {
+                                                                                            background: rgba(236, 121, 121, 1);
+                                                                                            color: #FFFFFF;
+                                                                                            font-family: 'Open Sans', sans-serif;
+                                                                                            font-weight: 600;
+                                                                                            font-size: 18px;
+                                                                                            width: 370px;
+                                                                                            height: 58px;
+                                                                                            border: none;
+                                                                                            margin-top: 27px;
+                                                                                            margin-left: 400px;
+                                                                                            padding: 0;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3 {
+                                                                                            height: 164px;
+                                                                                            background: #000000;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_h5 {
+                                                                                            color: rgba(255, 255, 255, 0.5);
+                                                                                            font-family: 'Raleway', sans-serif;
+                                                                                            font-weight: 400;
+                                                                                            font-size: 18px;
+                                                                                            line-height: 21p;
+                                                                                            text-align: center;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon {
+                                                                                            /* margin-top: 40px; */
+                                                                                            padding-top: 40px;
+                                                                                            text-align: center;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img1 {
+                                                                                            width: 23px;
+                                                                                            height: 42px;
+                                                                                            margin-right: 30px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img2 {
+                                                                                            width: 43px;
+                                                                                            height: 35px;
+                                                                                            margin-right: 30px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img3 {
+                                                                                            width: 40px;
+                                                                                            height: 40px;
+                                                                                            margin-right: 30px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img4 {
+                                                                                            width: 44px;
+                                                                                            height: 44px;
+                                                                                            margin-right: 30px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img5 {
+                                                                                            width: 40px;
+                                                                                            height: 40px;
+                                                                                            margin-right: 30px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img6 {
+                                                                                            width: 44px;
+                                                                                            height: 44px;
+                                                                                            margin-right: 30px;
+                                                                                        }
+                                                                                        
+                                                                                        .footer_3_icon_img7 {
+                                                                                            width: 34.5px;
+                                                                                            height: 34.5px;
+                                                                                            margin-right: 30px;
+                                                                                        }
