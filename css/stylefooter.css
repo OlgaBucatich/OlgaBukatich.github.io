@@ -1,9 +1,14 @@
-                                                                                        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+ .footer {width: 100%;
+    max-width: 1510px;
+margin: 0 auto;}
                                                                                         .footer_1 {
                                                                                             width: 100%;
-                                                                                            max-width: 1170px;
+                                                                                            max-width: 1510px;
                                                                                             height: 442px;
-                                                                                            background: url('/Sito1/все/assets/bg\ footer.png'), url('/Sito1/все/assets/image\ footer.png');
+                                                                                            background: url('/все/assets/bg2.png'), url('/все/assets/image2.png');
+                                                                                            /* background: #000000;
+                                                                                            border: 1px solid white; */
                                                                                             margin-top: 64px;
                                                                                             font-family: 'Raleway', sans-serif;
                                                                                             font-size: 36px;
@@ -47,12 +52,13 @@
                                                                                             font-family: 'Open Sans', sans-serif;
                                                                                             font-weight: 600;
                                                                                             font-size: 18px;
-                                                                                            width: 370px;
+                                                                                            width: 100%;
+                                                                                            max-width: 370px;
                                                                                             height: 58px;
                                                                                             background: rgba(0, 0, 0, 0);
                                                                                             border: 2px solid white;
                                                                                             padding: 0;
-                                                                                            margin: 0 400px;
+                                                                                            margin: 0 570px;
                                                                                         }
                                                                                         
                                                                                         .footer_1_button:hover {
@@ -67,8 +73,11 @@
                                                                                         }
                                                                                         
                                                                                         .footer_2 {
+                                                                                            width: 100%;
+                                                                                            max-width: 1510px;
+    max-width: 1510px;
                                                                                             height: 722px;
-                                                                                            background: #E5E5E5;
+                                                                                            /* background: #E5E5E5; */
                                                                                         }
                                                                                         
                                                                                         .footer_2_h2 {
@@ -113,14 +122,16 @@
                                                                                             font-weight: 400;
                                                                                             font-size: 14px;
                                                                                             line-height: 19px;
-                                                                                            width: 500px;
+                                                                                            max-width: 570px;
+                                                                                            width: 100%;
                                                                                             border: none;
                                                                                             background: #E5E5E5;
-                                                                                            margin-left: 50px;
+                                                                                            margin-left: 170px;
                                                                                         }
                                                                                         
                                                                                         .footer_2_form_separator {
-                                                                                            width: 500px;
+                                                                                            width: 100%;
+                                                                                            max-width: 570px;
                                                                                             height: 0;
                                                                                             border: 1px solid #BDBDBD;
                                                                                             margin: 16px 0 33px 50px;
@@ -133,7 +144,8 @@
                                                                                             font-weight: 400;
                                                                                             font-size: 14px;
                                                                                             line-height: 19px;
-                                                                                            width: 460px;
+                                                                                            max-width: 570px;
+                                                                                            width: 100%;
                                                                                             height: 200px;
                                                                                             border: none;
                                                                                             margin-left: 75px;
@@ -147,15 +159,17 @@
                                                                                             font-family: 'Open Sans', sans-serif;
                                                                                             font-weight: 600;
                                                                                             font-size: 18px;
-                                                                                            width: 370px;
+                                                                                            max-width: 370px;
+                                                                                            width: 100%;
                                                                                             height: 58px;
                                                                                             border: none;
                                                                                             margin-top: 27px;
-                                                                                            margin-left: 400px;
+                                                                                            margin-left: 570px;
                                                                                             padding: 0;
                                                                                         }
                                                                                         
                                                                                         .footer_3 {
+                                                                                            width: 100%; max-width: 1510px;
                                                                                             height: 164px;
                                                                                             background: #000000;
                                                                                         }
@@ -176,43 +190,44 @@
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img1 {
-                                                                                            width: 23px;
-                                                                                            height: 42px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
+                                                                                            
                                                                                             margin-right: 30px;
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img2 {
-                                                                                            width: 43px;
-                                                                                            height: 35px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
                                                                                             margin-right: 30px;
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img3 {
-                                                                                            width: 40px;
-                                                                                            height: 40px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
                                                                                             margin-right: 30px;
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img4 {
-                                                                                            width: 44px;
-                                                                                            height: 44px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
                                                                                             margin-right: 30px;
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img5 {
-                                                                                            width: 40px;
-                                                                                            height: 40px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
                                                                                             margin-right: 30px;
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img6 {
-                                                                                            width: 44px;
-                                                                                            height: 44px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
                                                                                             margin-right: 30px;
                                                                                         }
                                                                                         
                                                                                         .footer_3_icon_img7 {
-                                                                                            width: 34.5px;
-                                                                                            height: 34.5px;
+                                                                                            max-width: 53.2px;
+                                                                                            width: 100%;
                                                                                             margin-right: 30px;
                                                                                         }
